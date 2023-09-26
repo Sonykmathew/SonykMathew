@@ -1,7 +1,7 @@
 ![Your Banner](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 
-<h1 align="center">hey I'm SONY K MATHEW</h1>
-<h3 align="center">FULL STACK DEVELOPER</h3>
+<h1 align="left">hey I'm SONY K MATHEW</h1>
+<h3 align="left">FULL STACK DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonykmathew&label=Profile%20views&color=0e75b6&style=flat" alt="sonykmathew" /> </p>
 
