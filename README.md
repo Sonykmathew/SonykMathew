@@ -1,4 +1,4 @@
-![Your Banner](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif))
+![Your Banner](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 
 <h1 align="center">hey I'm SONY K MATHEW</h1>
 <h3 align="center">FULL STACK DEVELOPER</h3>
